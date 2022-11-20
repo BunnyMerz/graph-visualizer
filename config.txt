@@ -1,0 +1,4 @@
+# Anything after '#' will be ignored
+bg-color=0,0,0
+width=600
+height=600
